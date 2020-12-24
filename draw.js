@@ -6,8 +6,8 @@ var drawing_sk = (sk) => {
 
         sk.stroke(0);
         sk.strokeWeight(14);
-        sk.background(255);
-
+        sk.background(255);   
+// wdvifhuwvdejg
         next_button = sk.createButton("Next");
         next_button.mousePressed(sk.next);
 
